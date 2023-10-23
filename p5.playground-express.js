@@ -1,3 +1,6 @@
+//  Caleb Foss 2023
+//  https://github.com/calebfoss/p5.playground-express
+
 if (typeof navigator.usb === "undefined") {
   const errMessage =
     "This browser does not support webusb. Please switch to Chrome when using this webusb add-on.";
